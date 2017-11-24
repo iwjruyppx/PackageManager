@@ -1018,6 +1018,9 @@
     </settings>
   </configuration>
   <file>
+    <name>$PROJ_DIR$\..\CWM_PACKAGE_QUEUE.c</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\..\main.c</name>
   </file>
 </project>
